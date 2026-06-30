@@ -1,17 +1,32 @@
 
 # SVINT IA
 
-Base de conocimiento comercial de SVINT.
+Base de conocimiento comercial SVINT.
 
-## Documentación disponible
+## Documentación
 
 ### Tarifas
 
 [Ver tarifas](tarifas.md)
 
-### Archivos
+### Cobertura
 
-- [Cobertura](cobertura.xlsx)
-- [Tarifas Excel](tARIFAS_V1%20-%20Copia%20-%20Copia.xlsx)
-- [Base Maestra](bASE_MAESTRA%20-%20Copia.docx)
-``
+[Ver cobertura](cobertura.md)
+
+### Contratación
+
+[Ver contratación](contratacion.md)
+
+## Archivos
+
+### Tarifario Excel
+
+tARIFAS_V1 - Copia - Copia.xlsx
+
+### Cobertura Excel
+
+cobertura.xlsx
+
+### Documento Maestro
+
+bASE_MAESTRA - Copia.d
